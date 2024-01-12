@@ -1,0 +1,388 @@
+{
+  "ROLE_IDS":
+  {
+    "PRONOUNS_HEHIM": "814293352157282325",
+    "PRONOUNS_SHEHER": "814293411250307073",
+    "PRONOUNS_THEYTHEM": "814293522806734888",
+    "PRONOUNS_ANY": "928701779833683999",
+    "PRONOUNS_OTHER": "814293561297862676",
+
+    "DEPARTMENT_OPERATIONS": "973334700959629352",
+    "DEPARTMENT_FIELD": "973334705179091004",
+    "DEPARTMENT_INTELLIGENCE": "973334708819738714",
+    "DEPARTMENT_RESEARCH": "973334695720923177",
+    
+    "ANNOUNCEMENTS_PINGS": "836751334471499779" 
+  },
+
+  "EMBEDS":
+  {
+    "ERROR":
+    {
+      "color": 16711680,
+
+      "description": "## An error occured."
+    },
+
+    "SUCCESS":
+    {
+      "color": 13311,
+
+      "description": "## Command successfully excecuted."
+    },
+
+    "RULES":
+    {
+      "color": 13311,
+      
+      "description": "# Rules\n1.) Respect each other. No bullying, toxicity, or exclusion.\n\n2.) Use channels correctly. Read channel descriptions before using them.\n\n3.) No spamming. Do not spam in any form, as this will result in an automatic tempmute.\n\n4.) No advertising. Only self-promote in <#801574076011249784>.\n\n5.) No discrimination of any kind including sexism, racism, homophobia, or any other forms of discrimination.\n\n6.) Mild profanity is fine, but do not excessively curse.\n\n7.) Be kind\n\n8.) No NSFW content including, but not limited to pornography and other forms of inappropriate content.\n\n9.) No inappropriate nicknames, usernames, or profile pictures.\n\n10.) Use your common sense. Do not try to find loopholes.\n\nWe uphold the [**Discord Terms of Service**](https://discord.com/terms)",
+      
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+    
+    "INFO_1":
+    {      
+      "color": 13311,
+      
+      "description": "# Information\nWelcome to the Tactical Enforcement Strategic Enforcement Agency's server! (It's a mouthful; We're working on that) This server is a hub for people with different hobbies to meet one another! From gaming to coding to designing, we've got it all! Here's some helpful information below!",
+      
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+    
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "INFO_2":
+    {      
+      "color": 13311,
+      
+      "description": "## What is T.E.S.L.A.?\nThe Tactical Enforcement Strategic Logistics Agency (TESLA) is the United State's domestic and foreign agency tasked with counter-terrorism, intelligence, counter-intelligence, security, and cyber-security.",
+    
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "INFO_3":
+    {      
+      "color": 13311,
+      
+      "description": "## Role Information\n",
+
+      "fields":
+      [      
+        {
+          "name": "\u200b",
+          "value": "**Administrative**\n<@&905894322011004928> - Director of T.E.S.L.A.\n<@&905886738763886602> - Lieutenant Director of T.E.S.L.A.\n<@&905888369706430505> - Server Administrator\n<@&905888394389884929> - Server Senior Moderator\n<@&905888403277623317> - Server Moderator\n<@&801659709962584074> - Bots\n\n**General**\n<@&905893175774822441> - Server Member\n<@&806970285710245941> - Server Booster\n<@&836751334471499779> - Announcement Pings\n<@&1195093874230694010> - Liaison from other servers\n\n**Departments**\n<@&973335436166574120> - Director\n<@&973334705179091004> - Field Agent\n<@&973334708819738714> - Intelligence\n<@&973334700959629352> - Operations\n<@&973334695720923177> - Research\n\n**Linked Roles**\nGet roles for having verified connections by following these steps: `T.E.S.L.A. > Linked Roles > [Role]`"
+        }
+      ],
+    
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "SWATTEAM":
+    {
+      "color": 13311,
+      
+      "description": "## T.E.S.L.A. S.W.A.T. Team\nTo apply, you must meet all of the requirements below:\n\n- Be 16 year old or older\n- Speak English fluently\n- Be mature\n- Have the <@&1089410274538303559> role\n- Own [Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not)\n\n If all of the requirements are met, fill out the form below.",
+      
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "GAMING":
+    {
+      "color": 13311,
+      
+      "description": "## Gaming\nClick the button below to get the <@&1143715330162700348> role.",
+      
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "PROGRAMMING":
+    {
+      "color": 13311,
+      
+      "description": "## Programming\nClick the button below to get the <@&1143715934272507934> role.",
+      
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+  
+    "CREW":
+    {
+      "color": 13311,
+
+      "title": "T.E.S.L.A. Bravo Team",
+      
+      "description": "`Operation Mercury Extinction`\n\nLooking for agents to join the Tactical Enforcement Strategic Logistics Agency's Bravo Team in an undercover in Jailbreak Island.\n\nWe’re a chill crew mostly for grinding and a bit of crew battles.\n\n**Requirements**\n- 13+\n- Mature\n- Speak English fluently\n- Be decent at PvP\n- Own the Blackhawk\n- Be in North American timezones\n  - NAW Servers (Preferred)\n- Be able to voice chat in Discord (Preferred)",
+      
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "CREW_SERVER":
+    {
+      "color": 13311,
+
+      "title": "T.E.S.L.A. Bravo Team",
+      
+      "description": "Click the button below to join the private server!",
+      
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "PRONOUNS":
+    {
+      "color": 13311,
+      
+      "description": "## Pronouns\n:blue_heart: <@&814293352157282325>\n\n:purple_heart: <@&814293411250307073>\n\n:green_heart: <@&814293522806734888>\n\n:orange_heart: <@&928701779833683999>\n\n:heart: <@&814293561297862676>\n\n*If you do not wish to choose a role, that’s okay!",
+      
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "DEPARTMENT":
+    {
+      "color": 13311,
+
+      "description": "## Department\n<@&973334700959629352> - Operations\n\n<@&973334705179091004> Field Agent\n\n<@&973334708819738714> - Intelligence\n\n<@&973334695720923177> - Research",
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "ANNOUNCEMENTS":
+    {     
+      "color": 13311,  
+          
+      "description": "## Announcements\nTo get server announcements, click the button below.",
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "ROLE_ERROR":
+    {
+      "color": 16711680,
+
+      "description": "## Error: Role not found."
+    },
+
+    "ROLE_ADDED":
+    {
+      "color": 65280,
+
+      "description": "## Role successfully granted."
+    },
+
+    "ROLE_REMOVED":
+    {
+      "color": 65280,
+
+      "description": "## Role successfully removed."
+    },
+
+    "PING":
+    {
+      "color": 13311,
+      
+      "description": "## Ping\nPinging . . . .",
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "ANNOUNCEMENT":
+    {
+      "color": 13311,
+
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "ABOUT":
+    {
+      "color": 13311,
+
+      "description": "## About T.E.S.L.A. Bot\n```Project Eris```\n\n**Links**\n<:Discord:800846129277304882> [**Discord Server**](https://discord.gg/ahhWwa8EaK)\n<:GitHub:1094811761976283217> [**GitHub Repository**](https://github.com/SuperPEKKA336-Dev/Project-Eris_v1.0.1a_release)\n\n**Credits**\n<:SuperPEKKA336:1124155382818947152> `superpekka336` - Creator/Programmer\n:hamburger: `budgethuman` - Advisor\n\n**Bot Information**\nVersion: `1.0.1 Alpha`\nLanguage: <:nodejs:1152276407595040808> JavaScript (Node.js)",
+
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+    
+    "MESSAGE":
+    {
+      "color": 13311,
+
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "WELCOME":
+    {
+      "color": 13311,
+
+      "description": "## Welcome!\nWelcome to the T.E.S.L.A. Server <@%user>!",
+
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "LEAVE":
+    {
+      "color": 13311,
+
+      "description": "<@%user> left the server.",
+
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    },
+
+    "BANNED":
+    {
+      "color": 13311,
+
+      "description": "<@%user> was struck by the banhmmer.",
+
+      "image":
+      {
+        "url": "https://i.ibb.co/K2VjPbP/giphy.gif"
+      },
+
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      },
+      
+      "footer":
+      {
+        "text": "T.E.S.L.A.",
+        "icon_url": "https://i.ibb.co/nj68pPV/TESLA-Logo.png"
+      }
+    }
+  }
+}
